@@ -19,16 +19,28 @@ public:
     //     return 1 + lh + rh;
     // }
     void count(TreeNode* node, int* cnt){
-        if (node == nullptr) return ;
-        count (node->left, &(++*cnt));
-        count (node->right, &(++*cnt));
+        if (node == nullptr){
+          return ;  
+        }
+        if (node->left != nullptr) {
+            count (node->left, &(++*cnt));
+        }
+        if (node->right != nullptr){
+            count (node->right, &(++*cnt));
+        }
     }
     
     int countNodes(TreeNode* root) {
         int cnt = 0;
+        if (root == nullptr) {
+            return 0;
+        }
+        if (root->left == nullptr && root->right == nullptr) {
+            return 1;
+        }
         // cnt = count(root);
         // return cnt;
         count(root, &cnt);
-        return cnt/2 ;
+        return cnt +1;
     }
 };
