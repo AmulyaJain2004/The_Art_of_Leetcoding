@@ -18,29 +18,47 @@ public:
     //     int rh = count(node->right);
     //     return 1 + lh + rh;
     // }
-    void count(TreeNode* node, int* cnt){
-        if (node == nullptr){
-          return ;  
-        }
-        if (node->left != nullptr) {
-            count (node->left, &(++*cnt));
-        }
-        if (node->right != nullptr){
-            count (node->right, &(++*cnt));
-        }
-    }
+
+    // using top to down
+    // void count(TreeNode* node, int &cnt){
+    //     if (node == nullptr){
+    //         return ;  
+    //     }
+    //     if (node->left != nullptr) {
+    //         count (node->left, (++cnt));
+    //     }
+    //     if (node->right != nullptr){
+    //         count (node->right, (++cnt));
+    //     }
+    // }
     
+    // inorder
+    int inorder(TreeNode* node, int &cnt){
+        if (node == nullptr) return 0;
+        cnt ++;
+        inorder(node->left, cnt);
+        inorder(node->right, cnt);
+        return cnt;
+    }
     int countNodes(TreeNode* root) {
         int cnt = 0;
-        if (root == nullptr) {
-            return 0;
-        }
-        if (root->left == nullptr && root->right == nullptr) {
-            return 1;
-        }
+
+        // for down to top
         // cnt = count(root);
         // return cnt;
-        count(root, &cnt);
-        return cnt +1;
+
+        // for top to down
+        // if (root == nullptr) {
+        //     return 0;
+        // }
+        // if (root->left == nullptr && root->right == nullptr) {
+        //     return 1;
+        // }
+        // count(root, cnt);
+        // return cnt +1;
+
+        // inorder traversal simple
+        cnt = inorder(root, cnt);
+        return cnt;
     }
 };
