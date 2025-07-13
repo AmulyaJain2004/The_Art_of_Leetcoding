@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    TreeNode* binTree(vector<int>& preorder, int preStart, int preEnd, vector<int>& inorder, int inStart, int inEnd, map<int, int>inMap){
+    TreeNode* binTree(vector<int>& preorder, int preStart, int preEnd, vector<int>& inorder, int inStart, int inEnd, unordered_map<int, int>& inMap){
         if(preStart > preEnd || inStart > inEnd) return nullptr;
         TreeNode* root = new TreeNode(preorder[preStart]);
         int inRoot = inMap[root->val];
@@ -22,7 +22,7 @@ public:
     }
         
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        map<int, int> inMap;
+        unordered_map<int, int> inMap;
         for(int i = 0; i < inorder.size(); i++){
             inMap[inorder[i]] = i;
         }
