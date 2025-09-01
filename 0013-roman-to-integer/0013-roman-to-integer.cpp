@@ -20,5 +20,8 @@ public:
             }
         }
         return ans;
+
+        // To optimize it further although not needed, we can use if else in one function
+        // to achieve what we have done using map
     }
 };
