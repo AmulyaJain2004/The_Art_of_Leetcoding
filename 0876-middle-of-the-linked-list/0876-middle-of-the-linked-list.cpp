@@ -28,6 +28,7 @@ public:
         //     temp = temp->next;
         // }
         // return temp;
+
         // Optimized Approach: Tortoise&Hare approach or Slow&Fast pointers
         ListNode* slow = head;
         ListNode* fast = head;
@@ -36,5 +37,18 @@ public:
             fast = fast->next->next;
         }
         return slow;
+
+        // random approach
+        // ListNode* ptr1 = head;
+        // ListNode* ptr2 = head;
+        // while (ptr1->next != nullptr) {
+        //     ptr1 = ptr1->next;
+        //     if (ptr1->next == nullptr) {
+        //         return ptr2->next;
+        //     }
+        //     ptr1 = ptr1->next;
+        //     ptr2 = ptr2->next;
+        // }
+        // return ptr2;
     }
 };
