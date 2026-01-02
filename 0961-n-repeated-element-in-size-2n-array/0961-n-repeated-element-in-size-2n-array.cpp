@@ -12,7 +12,7 @@ public:
         //     }
         // }
         // return -1;
-        
+        // Time: O(n) & Space: O(1)
         for (int i = 0; i < nums.size(); i ++) {
             if (i+1 < nums.size() && nums[i] == nums[i+1]) {
                 return nums[i];
