@@ -11,7 +11,7 @@ public:
                         divisors.push_back(nums[i] / j );
                     }
                 }
-                if (divisors.size()> 4) {
+                if (divisors.size() > 4) {
                     break;
                 }
             }
