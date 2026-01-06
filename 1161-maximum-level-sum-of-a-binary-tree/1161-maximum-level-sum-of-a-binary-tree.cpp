@@ -22,16 +22,13 @@ public:
             currLvl ++;
             int size = q.size();
             vector<int>level;
+            int currLvlSum {0};
             for (int i = 0; i < size; i++) {
                 TreeNode* node = q.front();
                 q.pop();
                 if (node->left != nullptr) q.push(node->left);
                 if (node->right != nullptr) q.push(node->right);
-                level.push_back(node->val);
-            }
-            int currLvlSum {0};
-            for (int i = 0; i < level.size(); i++) {
-                currLvlSum += level[i];
+                currLvlSum += node->val;
             }
             if (currLvlSum > maxLvlSum) {
                 maxLvlSum = currLvlSum;
