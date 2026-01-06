@@ -21,7 +21,6 @@ public:
         while(!q.empty()) {
             currLvl ++;
             int size = q.size();
-            vector<int>level;
             int currLvlSum {0};
             for (int i = 0; i < size; i++) {
                 TreeNode* node = q.front();
