@@ -12,7 +12,7 @@ public:
                     }
                     // find rowth rowSum
                     int rowSum = 0;
-                    for (int j = col; j < mat[0].size(); j++) {
+                    for (int j = 0; j < mat[0].size(); j++) {
                         rowSum += mat[row][j];
                     }
                     if (rowSum == 1 && colSum == 1) {
