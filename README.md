@@ -7,6 +7,7 @@ Repository to solve leetcode problems and concepts
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0048-rotate-image/) | Medium |
+| [0217-contains-duplicate](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0217-contains-duplicate/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -29,6 +30,7 @@ Repository to solve leetcode problems and concepts
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0217-contains-duplicate/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -48,4 +50,8 @@ Repository to solve leetcode problems and concepts
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2906-construct-product-matrix](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2906-construct-product-matrix/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
