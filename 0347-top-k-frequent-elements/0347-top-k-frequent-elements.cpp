@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
+        // TC: O(nlogn)
         unordered_map<int, int> mp;
         for (int i = 0; i < nums.size(); i++) {
             mp[nums[i]] ++;
@@ -17,5 +18,7 @@ public:
             ans.push_back(topk[i].first);
         }
         return ans;
+
+        // Optimized Approach using Heaps Priority Queue will be done later
     }
 };
