@@ -17,6 +17,7 @@ Repository to solve leetcode problems and concepts
 | [1652-defuse-the-bomb](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2404-most-frequent-even-element/) | Easy |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2906-construct-product-matrix](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2906-construct-product-matrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Matrix
@@ -34,6 +35,7 @@ Repository to solve leetcode problems and concepts
 | [0242-valid-anagram](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0242-valid-anagram/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
