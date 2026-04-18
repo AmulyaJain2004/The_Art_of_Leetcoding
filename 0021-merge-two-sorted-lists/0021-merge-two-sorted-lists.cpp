@@ -45,6 +45,8 @@ public:
                 t2 = t2->next;
             }
         }
-        return list3->next;
+        t3 = list3->next;
+        delete list3;
+        return t3;
     }
 };
