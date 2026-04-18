@@ -9,7 +9,6 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        // brute force approach by maintaining a count of visited nodes by hashing table which will be done later.
         // optimized approach floyd cycle algo or slowfast or tortoiseHare algo
         if (head == nullptr || head->next == nullptr){
             return nullptr;
