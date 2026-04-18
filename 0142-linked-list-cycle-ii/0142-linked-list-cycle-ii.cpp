@@ -9,23 +9,25 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        if (head == NULL || head->next == NULL){
+        // brute force approach by maintaining a count of visited nodes by hashing table which will be done later.
+        // optimized approach floyd cycle algo or slowfast or tortoiseHare algo
+        if (head == nullptr || head->next == nullptr){
             return nullptr;
         }
         ListNode* slow = head;
         ListNode* fast = head;
-        while(fast!=NULL && fast->next!=NULL){
+        while (fast!= nullptr && fast->next!=nullptr) {
             slow = slow->next;
             fast = fast->next->next;
-            if (slow == fast){
+            if (slow == fast) {
                 slow = head;
-                while(slow != fast){
+                while (slow != fast) {
                     slow = slow->next;
                     fast = fast->next;
                 }
                 return slow;
             }
         }
-        return NULL;
+        return nullptr;
     }
 };
