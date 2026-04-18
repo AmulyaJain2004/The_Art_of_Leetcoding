@@ -11,7 +11,7 @@ public:
     bool hasCycle(ListNode *head) {
         // brute force approach by maintaining a count of visited nodes by hashing table which will be done later.
         // optimized approach floyd cycle algo or slowfast or tortoiseHare algo
-        if (head==NULL || head->next ==NULL){
+        if (head== nullptr || head->next ==nullptr){
             return false;
         }
         ListNode* slow = head;
