@@ -70,6 +70,7 @@ Repository to solve leetcode problems and concepts
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0143-reorder-list](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0143-reorder-list/) | Medium |
 | [0202-happy-number](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -124,11 +125,13 @@ Repository to solve leetcode problems and concepts
 | [0021-merge-two-sorted-lists](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0143-reorder-list](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0143-reorder-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0143-reorder-list](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0143-reorder-list/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,4 +144,8 @@ Repository to solve leetcode problems and concepts
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0143-reorder-list](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0143-reorder-list/) | Medium |
 <!---LeetCode Topics End-->
