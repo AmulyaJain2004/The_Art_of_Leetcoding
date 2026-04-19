@@ -19,6 +19,7 @@ Repository to solve leetcode problems and concepts
 | [1652-defuse-the-bomb](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
@@ -134,4 +135,8 @@ Repository to solve leetcode problems and concepts
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 <!---LeetCode Topics End-->
