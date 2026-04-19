@@ -18,5 +18,7 @@ public:
             fast = nums[fast];
         }
         return slow;
+
+        // There is a binary search approach too will do later.
     }
 };
