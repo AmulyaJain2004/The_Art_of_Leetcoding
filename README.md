@@ -15,6 +15,7 @@ Repository to solve leetcode problems and concepts
 | [0287-find-the-duplicate-number](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -62,6 +63,7 @@ Repository to solve leetcode problems and concepts
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0048-rotate-image/) | Medium |
 | [0202-happy-number](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0202-happy-number/) | Easy |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
