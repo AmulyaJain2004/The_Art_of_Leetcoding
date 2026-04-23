@@ -12,8 +12,7 @@ class Solution {
 public:
     void reorderList(ListNode* head) {
         // if (head == nullptr || head->next == nullptr) return;
-
-        // // Find middle (tail boundary)
+        // Find middle (tail boundary)
         // ListNode* slow = head;
         // ListNode* fast = head;
         // while (fast->next != nullptr && fast->next->next != nullptr) {
@@ -23,7 +22,7 @@ public:
 
         // ListNode* curr = head;
 
-        // // Stop when we reach middle
+        // Stop when we reach middle
         // while (curr != slow && curr->next != slow) {
 
         //     // Find last node and its previous
