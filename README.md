@@ -41,6 +41,7 @@ Repository to solve leetcode problems and concepts
 | [0049-group-anagrams](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0242-valid-anagram/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0796-rotate-string](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0796-rotate-string/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -167,4 +168,8 @@ Repository to solve leetcode problems and concepts
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0509-fibonacci-number/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
