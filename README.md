@@ -65,6 +65,7 @@ Repository to solve leetcode problems and concepts
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0007-reverse-integer/) | Medium |
 | [0048-rotate-image](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0048-rotate-image/) | Medium |
 | [0202-happy-number](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0202-happy-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0509-fibonacci-number/) | Easy |
