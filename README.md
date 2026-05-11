@@ -24,6 +24,7 @@ Repository to solve leetcode problems and concepts
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2906-construct-product-matrix](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2906-construct-product-matrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -90,6 +91,7 @@ Repository to solve leetcode problems and concepts
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0657-robot-return-to-origin/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
