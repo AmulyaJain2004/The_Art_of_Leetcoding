@@ -21,6 +21,7 @@ Repository to solve leetcode problems and concepts
 | [1652-defuse-the-bomb](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [1929-concatenation-of-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1929-concatenation-of-array/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -90,6 +91,7 @@ Repository to solve leetcode problems and concepts
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0657-robot-return-to-origin/) | Easy |
+| [1929-concatenation-of-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1929-concatenation-of-array/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 ## Prefix Sum
