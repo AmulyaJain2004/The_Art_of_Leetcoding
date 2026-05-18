@@ -16,6 +16,7 @@ Repository to solve leetcode problems and concepts
 | [0347-top-k-frequent-elements](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0739-daily-temperatures](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0739-daily-temperatures/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1470-shuffle-the-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1470-shuffle-the-array/) | Easy |
@@ -172,6 +173,7 @@ Repository to solve leetcode problems and concepts
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0143-reorder-list/) | Medium |
+| [0739-daily-temperatures](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0739-daily-temperatures/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -184,4 +186,8 @@ Repository to solve leetcode problems and concepts
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0796-rotate-string/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
