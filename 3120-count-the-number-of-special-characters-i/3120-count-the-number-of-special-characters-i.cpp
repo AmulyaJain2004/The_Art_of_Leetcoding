@@ -13,7 +13,7 @@ public:
             }
         }
         for (char c : lowerset) {
-            if (upperset.find(c - 32) != upperset.end()) {
+            if (upperset.find(toupper(c)) != upperset.end()) { // upperset.find(c - 32) this will also work
                 cnt++;
             }
         }
