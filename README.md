@@ -61,6 +61,7 @@ Repository to solve leetcode problems and concepts
 | [2833-furthest-point-from-origin](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +80,7 @@ Repository to solve leetcode problems and concepts
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
