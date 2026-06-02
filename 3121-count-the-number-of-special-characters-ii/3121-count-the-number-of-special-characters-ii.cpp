@@ -1,22 +1,39 @@
 class Solution {
 public:
     int numberOfSpecialChars(string word) {
-        int cnt = 0;
-        unordered_set<char> upperset;
-        unordered_set<char> lowerset;
+
+        vector<int> lastLower(26, -1);
+        vector<int> firstUpper(26, -1);
+
         for (int i = 0; i < word.size(); i++) {
-            if (isupper(word[i])) {
-                upperset.insert(word[i]);
+
+            char c = word[i];
+
+            if (islower(c)) {
+                lastLower[c - 'a'] = i;
             }
             else {
-                lowerset.insert(word[i]);
+
+                int idx = c - 'A';
+
+                if (firstUpper[idx] == -1) {
+                    firstUpper[idx] = i;
+                }
             }
         }
-        for (char c : upperset) {
-            if (lowerset.find(tolower(c)) != lowerset.end()) {
+
+        int cnt = 0;
+
+        for (int i = 0; i < 26; i++) {
+
+            if (lastLower[i] != -1 &&
+                firstUpper[i] != -1 &&
+                lastLower[i] < firstUpper[i]) {
+
                 cnt++;
             }
         }
+
         return cnt;
     }
 };
