@@ -34,6 +34,7 @@ Repository to solve leetcode problems and concepts
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
@@ -117,6 +118,7 @@ Repository to solve leetcode problems and concepts
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0238-product-of-array-except-self/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2906-construct-product-matrix](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2906-construct-product-matrix/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
