@@ -30,6 +30,7 @@ Repository to solve leetcode problems and concepts
 | [1929-concatenation-of-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1929-concatenation-of-array/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2540-minimum-common-value/) | Easy |
@@ -77,6 +78,7 @@ Repository to solve leetcode problems and concepts
 | [0242-valid-anagram](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2540-minimum-common-value](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -215,4 +217,12 @@ Repository to solve leetcode problems and concepts
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0739-daily-temperatures/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 <!---LeetCode Topics End-->
