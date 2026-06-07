@@ -20,23 +20,28 @@ public:
             int child = d[1];
             int isLeft = d[2];
 
-            if(mp.find(parent) == mp.end())
+            if(mp.find(parent) == mp.end()) {
                 mp[parent] = new TreeNode(parent);
+            }
 
-            if(mp.find(child) == mp.end())
+            if(mp.find(child) == mp.end()) {
                 mp[child] = new TreeNode(child);
+            }
 
-            if(isLeft)
+            if(isLeft) {
                 mp[parent]->left = mp[child];
-            else
+            }
+            else {
                 mp[parent]->right = mp[child];
+            }
 
             childNodes.insert(child);
         }
 
         for(auto &d : descriptions) {
-            if(childNodes.find(d[0]) == childNodes.end())
+            if(childNodes.find(d[0]) == childNodes.end()) {
                 return mp[d[0]];
+            }
         }
 
         return nullptr;
