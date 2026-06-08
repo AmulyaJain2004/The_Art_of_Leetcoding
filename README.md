@@ -30,6 +30,7 @@ Repository to solve leetcode problems and concepts
 | [1929-concatenation-of-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1929-concatenation-of-array/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -107,6 +108,7 @@ Repository to solve leetcode problems and concepts
 | [0202-happy-number](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2540-minimum-common-value/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Simulation
@@ -114,6 +116,7 @@ Repository to solve leetcode problems and concepts
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1929-concatenation-of-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1929-concatenation-of-array/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2180-count-integers-with-even-digit-sum](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 ## Prefix Sum
