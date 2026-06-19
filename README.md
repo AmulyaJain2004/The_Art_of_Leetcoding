@@ -25,6 +25,7 @@ Repository to solve leetcode problems and concepts
 | [1470-shuffle-the-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1470-shuffle-the-array/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1652-defuse-the-bomb/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -128,6 +129,7 @@ Repository to solve leetcode problems and concepts
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2906-construct-product-matrix](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2906-construct-product-matrix/) | Medium |
 ## Sorting
