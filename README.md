@@ -232,9 +232,19 @@ Repository to solve leetcode problems and concepts
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0100-same-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0100-same-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0100-same-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0100-same-tree/) | Easy |
 <!---LeetCode Topics End-->
