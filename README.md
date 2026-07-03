@@ -72,6 +72,7 @@ Repository to solve leetcode problems and concepts
 | [3120-count-the-number-of-special-characters-i](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3968-maximum-manhattan-distance-after-all-moves/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +106,7 @@ Repository to solve leetcode problems and concepts
 | [1716-calculate-money-in-leetcode-bank](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3968-maximum-manhattan-distance-after-all-moves/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,6 +170,7 @@ Repository to solve leetcode problems and concepts
 | [0347-top-k-frequent-elements](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3968-maximum-manhattan-distance-after-all-moves/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
