@@ -100,6 +100,7 @@ Repository to solve leetcode problems and concepts
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0007-reverse-integer/) | Medium |
 | [0048-rotate-image](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0048-rotate-image/) | Medium |
+| [0070-climbing-stairs](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0202-happy-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0509-fibonacci-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -224,10 +225,12 @@ Repository to solve leetcode problems and concepts
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0509-fibonacci-number/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
