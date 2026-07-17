@@ -190,6 +190,7 @@ Repository to solve leetcode problems and concepts
 | [0021-merge-two-sorted-lists](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0143-reorder-list/) | Medium |
@@ -221,6 +222,7 @@ Repository to solve leetcode problems and concepts
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0143-reorder-list](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0143-reorder-list/) | Medium |
 | [0739-daily-temperatures](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0739-daily-temperatures/) | Medium |
 ## Dynamic Programming
@@ -245,16 +247,19 @@ Repository to solve leetcode problems and concepts
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0100-same-tree/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0100-same-tree/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0100-same-tree/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
