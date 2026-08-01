@@ -7,6 +7,7 @@ Repository to solve leetcode problems and concepts
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0014-longest-common-prefix/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0048-rotate-image/) | Medium |
@@ -58,6 +59,7 @@ Repository to solve leetcode problems and concepts
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0242-valid-anagram/) | Easy |
 | [0520-detect-capital](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0520-detect-capital/) | Easy |
@@ -268,4 +270,8 @@ Repository to solve leetcode problems and concepts
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
