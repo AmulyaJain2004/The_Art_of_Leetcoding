@@ -109,6 +109,7 @@ Repository to solve leetcode problems and concepts
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
@@ -154,6 +155,7 @@ Repository to solve leetcode problems and concepts
 | [0645-set-mismatch](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0645-set-mismatch/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
