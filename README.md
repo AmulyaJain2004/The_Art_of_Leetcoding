@@ -12,6 +12,7 @@ Repository to solve leetcode problems and concepts
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0217-contains-duplicate/) | Easy |
@@ -164,6 +165,7 @@ Repository to solve leetcode problems and concepts
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -237,6 +239,7 @@ Repository to solve leetcode problems and concepts
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0877-stone-game/) | Medium |
