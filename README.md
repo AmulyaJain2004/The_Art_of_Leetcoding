@@ -48,6 +48,7 @@ Repository to solve leetcode problems and concepts
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2906-construct-product-matrix](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2906-construct-product-matrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3731-find-missing-elements](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3731-find-missing-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -98,6 +99,7 @@ Repository to solve leetcode problems and concepts
 | [2784-check-if-array-is-good](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3731-find-missing-elements](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3731-find-missing-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,6 +160,7 @@ Repository to solve leetcode problems and concepts
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3731-find-missing-elements](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3731-find-missing-elements/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
