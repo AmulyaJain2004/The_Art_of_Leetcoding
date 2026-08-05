@@ -13,6 +13,7 @@ Repository to solve leetcode problems and concepts
 | [0048-rotate-image](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0053-maximum-subarray/) | Medium |
+| [0162-find-peak-element](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0217-contains-duplicate/) | Easy |
@@ -217,6 +218,7 @@ Repository to solve leetcode problems and concepts
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0162-find-peak-element/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [2540-minimum-common-value](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2540-minimum-common-value/) | Easy |
 ## Bit Manipulation
