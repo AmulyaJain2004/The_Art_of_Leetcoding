@@ -24,6 +24,7 @@ Repository to solve leetcode problems and concepts
 | [0485-max-consecutive-ones](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0645-set-mismatch](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0645-set-mismatch/) | Easy |
 | [0739-daily-temperatures](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0739-daily-temperatures/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0877-stone-game](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0877-stone-game/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
@@ -220,6 +221,7 @@ Repository to solve leetcode problems and concepts
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0162-find-peak-element/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [2540-minimum-common-value](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2540-minimum-common-value/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -291,4 +293,8 @@ Repository to solve leetcode problems and concepts
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0877-stone-game/) | Medium |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
