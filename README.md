@@ -13,6 +13,7 @@ Repository to solve leetcode problems and concepts
 | [0048-rotate-image](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0053-maximum-subarray/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0078-subsets](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0078-subsets/) | Medium |
 | [0162-find-peak-element](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0169-majority-element/) | Easy |
@@ -59,6 +60,7 @@ Repository to solve leetcode problems and concepts
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0048-rotate-image/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2906-construct-product-matrix](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2906-construct-product-matrix/) | Medium |
@@ -140,6 +142,7 @@ Repository to solve leetcode problems and concepts
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0059-spiral-matrix-ii](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1929-concatenation-of-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1929-concatenation-of-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
