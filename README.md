@@ -13,6 +13,7 @@ Repository to solve leetcode problems and concepts
 | [0048-rotate-image](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0053-maximum-subarray/) | Medium |
+| [0078-subsets](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0078-subsets/) | Medium |
 | [0162-find-peak-element](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -228,6 +229,7 @@ Repository to solve leetcode problems and concepts
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0078-subsets/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0645-set-mismatch](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0645-set-mismatch/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -312,4 +314,8 @@ Repository to solve leetcode problems and concepts
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
