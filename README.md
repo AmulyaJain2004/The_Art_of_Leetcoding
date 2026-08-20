@@ -26,6 +26,7 @@ Repository to solve leetcode problems and concepts
 | [0416-partition-equal-subset-sum](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0518-coin-change-ii](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0518-coin-change-ii/) | Medium |
 | [0645-set-mismatch](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0645-set-mismatch/) | Easy |
 | [0739-daily-temperatures](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0739-daily-temperatures/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -256,6 +257,7 @@ Repository to solve leetcode problems and concepts
 | [0322-coin-change](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0509-fibonacci-number/) | Easy |
+| [0518-coin-change-ii](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0518-coin-change-ii/) | Medium |
 | [0877-stone-game](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0877-stone-game/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -317,6 +319,7 @@ Repository to solve leetcode problems and concepts
 | ------- | ------- |
 | [0322-coin-change](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0518-coin-change-ii](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0518-coin-change-ii/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -329,4 +332,5 @@ Repository to solve leetcode problems and concepts
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0322-coin-change/) | Medium |
+| [0518-coin-change-ii](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0518-coin-change-ii/) | Medium |
 <!---LeetCode Topics End-->
