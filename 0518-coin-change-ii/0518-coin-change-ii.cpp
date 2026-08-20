@@ -1,7 +1,6 @@
 class Solution {
 public:
     int change(int amount, vector<int>& coins) {
-        if(amount == 4681) return 0;
         int n = coins.size();
         vector<vector<unsigned long long int>> dp (n+1, vector<unsigned long long int> (amount + 1, 0));
         for(int i = 0; i <= n; i++) {
