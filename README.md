@@ -75,6 +75,7 @@ Repository to solve leetcode problems and concepts
 | [0014-longest-common-prefix](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0242-valid-anagram/) | Easy |
+| [0344-reverse-string](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0344-reverse-string/) | Easy |
 | [0520-detect-capital](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0520-detect-capital/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0796-rotate-string/) | Easy |
@@ -140,6 +141,7 @@ Repository to solve leetcode problems and concepts
 | [0143-reorder-list](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0143-reorder-list/) | Medium |
 | [0202-happy-number](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0344-reverse-string](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0344-reverse-string/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2540-minimum-common-value/) | Easy |
