@@ -18,6 +18,7 @@ Repository to solve leetcode problems and concepts
 | [0078-subsets](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0078-subsets/) | Medium |
 | [0162-find-peak-element](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0169-majority-element/) | Easy |
+| [0198-house-robber](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -259,6 +260,7 @@ Repository to solve leetcode problems and concepts
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0070-climbing-stairs/) | Easy |
+| [0198-house-robber](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0509-fibonacci-number/) | Easy |
