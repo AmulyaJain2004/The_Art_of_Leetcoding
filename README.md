@@ -61,6 +61,7 @@ Repository to solve leetcode problems and concepts
 | [3718-smallest-missing-multiple-of-k](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3731-find-missing-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,6 +133,7 @@ Repository to solve leetcode problems and concepts
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3968-maximum-manhattan-distance-after-all-moves/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
