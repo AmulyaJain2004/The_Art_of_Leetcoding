@@ -1,16 +1,13 @@
 class Solution {
 public:
-    void swap(int *a, int *b){
-        int temp = *a;
-        *a = *b;
-        *b = temp;
-    }
     void moveZeroes(vector<int>& nums) {
-        int i = 0; 
-        for (int j =0; j<nums.size(); j++){
-            if (nums[j] != 0){
-                swap(&nums[i], &nums[j]);
-                i++;
+        int j = 0;
+        for (int i = 0; i < (int)nums.size(); i++) {
+            if (nums[i] != 0) {
+                if (i != j) {
+                    swap(nums[i], nums[j]);
+                }
+                j ++;
             }
         }
     }
