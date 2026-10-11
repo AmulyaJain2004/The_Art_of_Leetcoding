@@ -64,6 +64,7 @@ Repository to solve leetcode problems and concepts
 | [3731-find-missing-elements](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3731-find-missing-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +154,7 @@ Repository to solve leetcode problems and concepts
 | [2161-partition-array-according-to-given-pivot](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2540-minimum-common-value/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
