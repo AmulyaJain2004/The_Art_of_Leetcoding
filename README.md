@@ -22,6 +22,7 @@ Repository to solve leetcode problems and concepts
 | [0215-kth-largest-element-in-an-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0283-move-zeroes](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0322-coin-change](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -145,6 +146,7 @@ Repository to solve leetcode problems and concepts
 | [0142-linked-list-cycle-ii](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0143-reorder-list/) | Medium |
 | [0202-happy-number](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0202-happy-number/) | Easy |
+| [0283-move-zeroes](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0344-reverse-string/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
