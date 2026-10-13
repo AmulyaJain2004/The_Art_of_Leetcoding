@@ -61,6 +61,7 @@ Repository to solve leetcode problems and concepts
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3731-find-missing-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -185,6 +186,7 @@ Repository to solve leetcode problems and concepts
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3731-find-missing-elements/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -257,6 +259,7 @@ Repository to solve leetcode problems and concepts
 | ------- | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
