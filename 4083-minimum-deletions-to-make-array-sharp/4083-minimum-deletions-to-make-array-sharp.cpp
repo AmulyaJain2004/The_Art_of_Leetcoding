@@ -11,5 +11,15 @@ public:
             }
         }
         return (int)nums.size() - cnt;
+        // Another Approach
+        // int ans =0;
+        // for(int i=0;i<nums.size();){
+        //     int check =0;
+        //     int j = i+1;
+        //     while(j<nums.size() and nums[j] == nums[i]) j++;
+        //     ans+=(j-i-1);
+        //     i=j;
+        // }
+        // return ans;
     }
 };
