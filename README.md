@@ -247,6 +247,7 @@ Repository to solve leetcode problems and concepts
 | [0033-search-in-rotated-sorted-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0162-find-peak-element/) | Medium |
+| [0278-first-bad-version](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -363,4 +364,8 @@ Repository to solve leetcode problems and concepts
 | [0175-combine-two-tables](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0177-nth-highest-salary/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
