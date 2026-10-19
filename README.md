@@ -8,6 +8,7 @@ Repository to solve leetcode problems and concepts
 | ------- | ------- |
 | [0001-two-sum](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0014-longest-common-prefix/) | Easy |
+| [0027-remove-element](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0039-combination-sum/) | Medium |
@@ -145,6 +146,7 @@ Repository to solve leetcode problems and concepts
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0027-remove-element/) | Easy |
 | [0061-rotate-list](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0142-linked-list-cycle-ii/) | Medium |
