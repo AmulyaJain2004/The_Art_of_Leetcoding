@@ -354,4 +354,8 @@ Repository to solve leetcode problems and concepts
 | ------- | ------- |
 | [0322-coin-change](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0518-coin-change-ii/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
