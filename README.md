@@ -66,6 +66,7 @@ Repository to solve leetcode problems and concepts
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3731-find-missing-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3866-first-unique-even-element](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3866-first-unique-even-element/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Matrix
@@ -121,6 +122,7 @@ Repository to solve leetcode problems and concepts
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3731-find-missing-elements/) | Easy |
+| [3866-first-unique-even-element](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3866-first-unique-even-element/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -216,6 +218,7 @@ Repository to solve leetcode problems and concepts
 | [0347-top-k-frequent-elements](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3866-first-unique-even-element](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3866-first-unique-even-element/) | Easy |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3968-maximum-manhattan-distance-after-all-moves/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
