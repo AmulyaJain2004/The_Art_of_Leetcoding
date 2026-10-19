@@ -359,4 +359,5 @@ Repository to solve leetcode problems and concepts
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0176-second-highest-salary/) | Medium |
+| [0177-nth-highest-salary](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0177-nth-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
