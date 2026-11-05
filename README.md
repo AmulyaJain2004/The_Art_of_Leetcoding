@@ -37,6 +37,7 @@ Repository to solve leetcode problems and concepts
 | [0877-stone-game](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0877-stone-game/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1470-shuffle-the-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1470-shuffle-the-array/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1652-defuse-the-bomb/) | Easy |
@@ -157,6 +158,7 @@ Repository to solve leetcode problems and concepts
 | [0283-move-zeroes](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0344-reverse-string/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2540-minimum-common-value/) | Easy |
@@ -189,6 +191,7 @@ Repository to solve leetcode problems and concepts
 | [0242-valid-anagram](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0645-set-mismatch](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0645-set-mismatch/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -255,6 +258,7 @@ Repository to solve leetcode problems and concepts
 | [0278-first-bad-version](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2540-minimum-common-value/) | Easy |
 ## Bit Manipulation
