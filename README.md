@@ -58,6 +58,7 @@ Repository to solve leetcode problems and concepts
 | [2553-separate-the-digits-in-an-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2906-construct-product-matrix](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2906-construct-product-matrix/) | Medium |
@@ -118,6 +119,7 @@ Repository to solve leetcode problems and concepts
 | [2404-most-frequent-even-element](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2540-minimum-common-value](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -194,6 +196,7 @@ Repository to solve leetcode problems and concepts
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2747-count-zero-request-servers](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -232,6 +235,7 @@ Repository to solve leetcode problems and concepts
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1652-defuse-the-bomb](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1652-defuse-the-bomb/) | Easy |
+| [2747-count-zero-request-servers](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2747-count-zero-request-servers/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
