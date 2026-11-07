@@ -44,6 +44,7 @@ Repository to solve leetcode problems and concepts
 | [1732-find-the-highest-altitude](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1882-process-tasks-using-servers](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1929-concatenation-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -213,6 +214,7 @@ Repository to solve leetcode problems and concepts
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1882-process-tasks-using-servers/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
