@@ -66,6 +66,7 @@ Repository to solve leetcode problems and concepts
 | [2906-construct-product-matrix](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2906-construct-product-matrix/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3693-climbing-stairs-ii](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3731-find-missing-elements/) | Easy |
@@ -301,6 +302,7 @@ Repository to solve leetcode problems and concepts
 | [0509-fibonacci-number](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0509-fibonacci-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0518-coin-change-ii/) | Medium |
 | [0877-stone-game](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0877-stone-game/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
