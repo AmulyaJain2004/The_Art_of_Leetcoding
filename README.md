@@ -22,6 +22,7 @@ Repository to solve leetcode problems and concepts
 | [0198-house-robber](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -112,6 +113,7 @@ Repository to solve leetcode problems and concepts
 | [0169-majority-element](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -236,6 +238,7 @@ Repository to solve leetcode problems and concepts
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1652-defuse-the-bomb/) | Easy |
 | [2747-count-zero-request-servers](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2747-count-zero-request-servers/) | Medium |
 ## Linked List
