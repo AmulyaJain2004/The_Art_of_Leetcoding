@@ -65,6 +65,7 @@ Repository to solve leetcode problems and concepts
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2906-construct-product-matrix](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2906-construct-product-matrix/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -189,6 +190,7 @@ Repository to solve leetcode problems and concepts
 | [1732-find-the-highest-altitude](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2906-construct-product-matrix](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2906-construct-product-matrix/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -244,6 +246,7 @@ Repository to solve leetcode problems and concepts
 | [0219-contains-duplicate-ii](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1652-defuse-the-bomb/) | Easy |
 | [2747-count-zero-request-servers](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
