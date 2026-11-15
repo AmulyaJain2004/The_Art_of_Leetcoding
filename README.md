@@ -40,6 +40,7 @@ Repository to solve leetcode problems and concepts
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1470-shuffle-the-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1470-shuffle-the-array/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -144,6 +145,7 @@ Repository to solve leetcode problems and concepts
 | [0877-stone-game](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0877-stone-game/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -187,6 +189,7 @@ Repository to solve leetcode problems and concepts
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2906-construct-product-matrix](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2906-construct-product-matrix/) | Medium |
@@ -309,6 +312,7 @@ Repository to solve leetcode problems and concepts
 | [0509-fibonacci-number](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0509-fibonacci-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0518-coin-change-ii/) | Medium |
 | [0877-stone-game](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0877-stone-game/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
