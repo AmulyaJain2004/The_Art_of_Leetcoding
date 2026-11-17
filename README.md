@@ -55,6 +55,7 @@ Repository to solve leetcode problems and concepts
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2221-find-triangular-sum-of-an-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2540-minimum-common-value/) | Easy |
@@ -149,6 +150,7 @@ Repository to solve leetcode problems and concepts
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
+| [2221-find-triangular-sum-of-an-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -185,6 +187,7 @@ Repository to solve leetcode problems and concepts
 | [1929-concatenation-of-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1929-concatenation-of-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2180-count-integers-with-even-digit-sum](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
+| [2221-find-triangular-sum-of-an-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Prefix Sum
@@ -356,6 +359,7 @@ Repository to solve leetcode problems and concepts
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0258-add-digits/) | Easy |
+| [2221-find-triangular-sum-of-an-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -415,4 +419,8 @@ Repository to solve leetcode problems and concepts
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 <!---LeetCode Topics End-->
