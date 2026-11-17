@@ -141,6 +141,7 @@ Repository to solve leetcode problems and concepts
 | [0048-rotate-image](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0048-rotate-image/) | Medium |
 | [0070-climbing-stairs](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0202-happy-number/) | Easy |
+| [0258-add-digits](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0258-add-digits/) | Easy |
 | [0509-fibonacci-number](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0877-stone-game/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -179,6 +180,7 @@ Repository to solve leetcode problems and concepts
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0059-spiral-matrix-ii](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0258-add-digits](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0258-add-digits/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1929-concatenation-of-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1929-concatenation-of-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -353,6 +355,7 @@ Repository to solve leetcode problems and concepts
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/0258-add-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
