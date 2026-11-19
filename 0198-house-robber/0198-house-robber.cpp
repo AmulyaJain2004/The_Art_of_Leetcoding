@@ -17,6 +17,4 @@ public:
         int currHome = 0;
         return solve(nums, currHome);
     }
-
-    // 1d space optimized dp later
 };
