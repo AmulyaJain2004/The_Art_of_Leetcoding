@@ -101,6 +101,7 @@ Repository to solve leetcode problems and concepts
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/AmulyaJain2004/The_Art_of_Leetcoding/tree/main/2833-furthest-point-from-origin/) | Easy |
